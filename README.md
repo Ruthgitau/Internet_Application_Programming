@@ -1,2 +1,2 @@
-# Internet_Application_Programming
-JavaScript Projects 
+# RUTH MUTHONI GITAU
+# SCT 212-0102/2022
